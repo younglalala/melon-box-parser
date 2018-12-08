@@ -1,0 +1,17 @@
+matplotlib
+numpy
+opencv-python
+pillow
+tensorflow==1.5
+scipy
+jieba
+Cython
+fasttext
+word2vec
+tensorboard
+scikit_image
+Augmentor
+
+imgaug
+
+gym
