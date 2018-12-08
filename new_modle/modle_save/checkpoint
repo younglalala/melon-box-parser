@@ -1,0 +1,2 @@
+model_checkpoint_path: "cls_modle1.cptk"
+all_model_checkpoint_paths: "cls_modle1.cptk"
